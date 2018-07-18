@@ -15,7 +15,7 @@ See the list of [available releases](https://github.com/thiagotts/show-my-git-br
 
 - Visual Studio 2013
 - Visual Studio 2015
-
+- Visual Studio 2017
 ## License
 
 MIT License
