@@ -8,6 +8,7 @@ This is how it looks like:
 </p>
 
 ## Download
+Download the latest version from https://github.com/kuanysh-nabiyev/show-my-git-branch/blob/master/ShowMyGitBranch.vsix
 
 See the list of [available releases](https://github.com/thiagotts/show-my-git-branch/releases) or download it from the [Visual Studio Gallery](https://visualstudiogallery.msdn.microsoft.com/6eef160a-4765-4f6b-8064-31ecd16896c1).
 
@@ -17,7 +18,5 @@ See the list of [available releases](https://github.com/thiagotts/show-my-git-br
 - Visual Studio 2015
 - Visual Studio 2017
 ## License
-
-Download the latest version from https://github.com/kuanysh-nabiyev/show-my-git-branch/blob/master/ShowMyGitBranch.vsix
 
 MIT License
