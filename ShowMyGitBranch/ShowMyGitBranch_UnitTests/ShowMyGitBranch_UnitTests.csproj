@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ShowMyGitBranch_UnitTests</RootNamespace>
     <AssemblyName>ShowMyGitBranch_UnitTests</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -78,7 +79,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ShowMyGitBranch.csproj">
-      <Project>{97EE5793-0CEF-4CBE-AE01-293DE5724EA1}</Project>
+      <Project>{97ee5793-0cef-4cbe-ae01-293de5724ea1}</Project>
       <Name>ShowMyGitBranch</Name>
     </ProjectReference>
   </ItemGroup>
