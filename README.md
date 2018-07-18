@@ -18,4 +18,6 @@ See the list of [available releases](https://github.com/thiagotts/show-my-git-br
 - Visual Studio 2017
 ## License
 
+Download the latest version from https://github.com/kuanysh-nabiyev/show-my-git-branch/blob/master/ShowMyGitBranch.vsix
+
 MIT License
